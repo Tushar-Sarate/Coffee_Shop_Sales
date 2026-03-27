@@ -34,4 +34,7 @@ Profit / Revenue
 🔍 KPI Cards (Total Sales, Orders, Profit)
 📈 Data-driven decision support visuals
 
-6. 
+6. Screenshots
+Show what the dashboard looks like.
+Example
+https://github.com/Tushar-Sarate/Coffee_Shop_Sales/blob/main/Snapchat%20of%20the%20Dashboard.png
