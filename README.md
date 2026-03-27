@@ -13,6 +13,7 @@ Power BI – Dashboard creation & data visualization
 Excel (.xlsx) – Data source & preprocessing
 DAX (Data Analysis Expressions) – Calculations & measures
 SQL (optional if used) – Data querying (if applicable)
+
 4) Data Source
 Dataset: Coffee Shop Sales Dataset
 Format: Excel file (.xlsx)
@@ -23,7 +24,6 @@ Order Date
 Quantity Sold
 Profit / Revenue
 
-(You can also write: “Dataset provided for practice / simulated business dataset” if not from a company)
 
 5) Features & Highlights
 📊 Interactive Power BI Dashboard
@@ -34,7 +34,9 @@ Profit / Revenue
 🔍 KPI Cards (Total Sales, Orders, Profit)
 📈 Data-driven decision support visuals
 
-6. Screenshots
+6) Screenshots
+
 Show what the dashboard looks like.
+
 Example
 https://github.com/Tushar-Sarate/Coffee_Shop_Sales/blob/main/Snapchat%20of%20the%20Dashboard.png
